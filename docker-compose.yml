@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  demo:
+    image: yuuuuuu0276/hc
+    ports:
+      - "80:8002"
